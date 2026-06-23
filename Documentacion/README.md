@@ -1,9 +1,17 @@
-# Documentación del Proyecto Marketplace
+# Documentación del Proyecto
 
-Curso: Aplicaciones Móviles 1
+En esta carpeta se almacenará toda la documentación relacionada con el proyecto Marketplace.
 
-Integrantes:
-- Alexis Mazuelos Fuentes
-- Julio Cancino Meza
-- Lady Soria Pizango
-- Augusto Lopez Raymundo
+## Contenido
+
+- Resumen
+- Introducción
+- Diagnóstico
+- Objetivos
+- Justificación
+- Beneficiarios
+- Diagramas
+- Product Backlog
+- Sprint Planning
+- Conclusiones
+- Recomendaciones
